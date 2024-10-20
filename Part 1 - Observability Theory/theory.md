@@ -1,4 +1,4 @@
-# Observability Course - Part 1: Introduction to Observability
+# Observability- Part 1: Introduction to Observability
 
 ## What is Observability?
 
